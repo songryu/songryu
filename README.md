@@ -46,7 +46,9 @@ Description
 > 오버+언더 샘플링 : SMOTEENN   
    
 3-1. 모델 성능비교 및 학습결과 (지도학습)
+<img width="933" alt="KakaoTalk_Image_2022-08-26-19-05-40" src="https://user-images.githubusercontent.com/108215485/186880801-9f89e414-48b2-4891-b306-ae1df2263902.png">   
 
+>  RandomForest( n_estimators=100, max_depth=5, min_samples_leaf=8, min_samples_split=6, random_state=0, n_jobs=-1 ) 
 
 
 
