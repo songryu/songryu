@@ -79,9 +79,9 @@ Description
 >> * 4개의 권역을 다시 두 개로 나눔            
 >> ![KakaoTalk_Image_2022-08-26-19-07-29](https://user-images.githubusercontent.com/108215485/186883870-2e33dea5-7f12-46c3-9c3c-95cecf041ff9.png)         
 >> 서울 도심은 낮 시간, 업무 용도 이용			경기, 인천은 야간 시간, 출퇴근, 여가 용도      
->> <img width="706" alt="KakaoTalk_Image_2022-08-26-19-25-05" src="https://user-images.githubusercontent.com/108215485/186884194-bb520379-750f-47e3-8701-c4976371a15f.png">   
->> 이를 이용하여 아래와 같은 요금 할인 전략 제안      
->> <img width="945" height="300px" alt="KakaoTalk_Image_2022-08-26-19-26-30" src="https://user-images.githubusercontent.com/108215485/186884416-82999d6f-067e-41a3-b607-81eeca528c3b.png">             
+>> <img width="706" alt="KakaoTalk_Image_2022-08-26-19-25-05" src="https://user-images.githubusercontent.com/108215485/186884194-bb520379-750f-47e3-8701-c4976371a15f.png">      
+>> 이를 이용하여 아래와 같은 요금 할인 전략 제안         
+>> <img width="945" height="300px" alt="KakaoTalk_Image_2022-08-26-19-26-30" src="https://user-images.githubusercontent.com/108215485/186884416-82999d6f-067e-41a3-b607-81eeca528c3b.png">                 
 >>* 공유 자동차 이용 증가와 운영의 차질 감소 기대         
 >>* 각 지역의 이용이 잦은 시간대에 차량 배치가 원활하게 이루어져 이용자의 서비스 만족도 상승 예상      
 
