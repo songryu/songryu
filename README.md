@@ -30,11 +30,9 @@ Description
  ->(고속도로IC접근성, 고속화철도접근성, 병원접근성, 생활권공원접근성, 노후주택수, 주차장접근성, 전기차충전소접근성, 공연문화시설접근성)
 <img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 <img width="901" alt="KakaoTalk_Image_2022-08-26-18-53-26" src="https://user-images.githubusercontent.com/108215485/186878681-8342d683-1298-49d3-a4d1-b0091e36e5d3.png">
-<img width="873" alt="KakaoTalk_Image_2022-08-26-18-55-50" src="https://user-images.githubusercontent.com/108215485/186879220-47c61e4d-fe97-44a3-baea-2362b4c8677c.png">
->  - 독립변수 (고속도로접근성, 고속화철도접근성, 공연문화시설접근성, 노후주택수,
-	      종합병원접근성, 생활권공원접근성, 전기차충전소접근성, 주차장접근성)
->  - 종속변수 (예약 건수)
-   
+<img width="873" alt="KakaoTalk_Image_2022-08-26-18-55-50" src="https://user-images.githubusercontent.com/108215485/186879220-47c61e4d-fe97-44a3-baea-2362b4c8677c.png">   
+> - 독립변수 (고속도로접근성, 고속화철도접근성, 공연문화시설접근성, 노후주택수, 종합병원접근성, 생활권공원접근성, 전기차충전소접근성, 주차장접근성)
+> - 종속변수 (예약 건수)      
 2. 데이터 전처리
 변수간 상관관계, 다중공선성 확인 : 제거할 속성 없음
 
