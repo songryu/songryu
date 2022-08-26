@@ -74,10 +74,10 @@ Description
 >> ![KakaoTalk_Image_2022-08-26-19-07-17](https://user-images.githubusercontent.com/108215485/186882969-a889f9a4-b02d-4487-8f01-d90a458a172f.png)        
 > 3. 교통 허브
 >> - 마코프 클러스터링 결과   
-<img width="620" alt="KakaoTalk_Image_2022-08-26-19-22-04" src="https://user-images.githubusercontent.com/108215485/186883643-82694e24-a4dd-4bab-9b8c-a2ebcbced26f.png">       
-> 4. 공유 자동차 주요 권역 설정            
+>> <img width="620" alt="KakaoTalk_Image_2022-08-26-19-22-04" src="https://user-images.githubusercontent.com/108215485/186883643-82694e24-a4dd-4bab-9b8c-a2ebcbced26f.png">            
+> 4. 공유 자동차 주요 권역 설정               
 >> * 4개의 권역을 다시 두 개로 나눔            
->> ![KakaoTalk_Image_2022-08-26-19-07-29](https://user-images.githubusercontent.com/108215485/186883870-2e33dea5-7f12-46c3-9c3c-95cecf041ff9.png)      
+>> ![KakaoTalk_Image_2022-08-26-19-07-29](https://user-images.githubusercontent.com/108215485/186883870-2e33dea5-7f12-46c3-9c3c-95cecf041ff9.png)         
 >> 서울 도심은 낮 시간, 업무 용도 이용			경기, 인천은 야간 시간, 출퇴근, 여가 용도      
 >> <img width="706" alt="KakaoTalk_Image_2022-08-26-19-25-05" src="https://user-images.githubusercontent.com/108215485/186884194-bb520379-750f-47e3-8701-c4976371a15f.png">   
 >> 이를 이용하여 아래와 같은 요금 할인 전략 제안      
