@@ -52,7 +52,7 @@ Description
 <img width="849" height="300px" alt="KakaoTalk_Image_2022-08-26-19-09-51" src="https://user-images.githubusercontent.com/108215485/186881556-12659423-59ad-4658-abf1-7a7bad221594.png">   
 
 >  accuracy : 81% (모델평가지표) / recall : 79% (모델평가지표)
->  변수 중요도  :  병원접근성  >  전기차충전소접근성  >  생활권공원접근성  >  고속도로IC접근성  > 등등       
+>  변수 중요도 : 병원접근성>전기차충전소접근성>생활권공원접근성>고속도로IC접근성>...       
       
 3-2. 모델 성능비교 및 학습결과 (비지도학습)
 + Markov Clustering을 활용한 운행 군집화   
@@ -75,7 +75,7 @@ Description
 >> ![KakaoTalk_Image_2022-08-26-19-07-17](https://user-images.githubusercontent.com/108215485/186882969-a889f9a4-b02d-4487-8f01-d90a458a172f.png)        
 > 3. 교통 허브
 - 마코프 클러스터링 결과   
-<img width="620" alt="KakaoTalk_Image_2022-08-26-19-22-04" src="https://user-images.githubusercontent.com/108215485/186883643-82694e24-a4dd-4bab-9b8c-a2ebcbced26f.png">   
+<img width="620" alt="KakaoTalk_Image_2022-08-26-19-22-04" src="https://user-images.githubusercontent.com/108215485/186883643-82694e24-a4dd-4bab-9b8c-a2ebcbced26f.png">  
 > 4. 공유 자동차 주요 권역 설정   
 * 4개의 권역을 다시 두 개로 나눔      
 ![KakaoTalk_Image_2022-08-26-19-07-29](https://user-images.githubusercontent.com/108215485/186883870-2e33dea5-7f12-46c3-9c3c-95cecf041ff9.png)   
