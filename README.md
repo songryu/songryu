@@ -49,7 +49,7 @@ Description
 <img width="933" alt="KakaoTalk_Image_2022-08-26-19-05-40" src="https://user-images.githubusercontent.com/108215485/186880801-9f89e414-48b2-4891-b306-ae1df2263902.png">   
 
 >  RandomForest( n_estimators=100, max_depth=5, min_samples_leaf=8, min_samples_split=6, random_state=0, n_jobs=-1 ) 
-<img width="849" alt="KakaoTalk_Image_2022-08-26-19-09-51" src="https://user-images.githubusercontent.com/108215485/186881556-12659423-59ad-4658-abf1-7a7bad221594.png">   
+<img width="849" alt="KakaoTalk_Image_2022-08-26-19-09-51" src="https://user-images.githubusercontent.com/108215485/186881556-12659423-59ad-4658-abf1-7a7bad221594.png",height="300px">   
 
 >  accuracy : 81% (모델평가지표) / recall : 79% (모델평가지표)
 >  변수 중요도  :  병원접근성  >  전기차충전소접근성  >  생활권공원접근성  >  고속도로IC접근성  > 등등       
