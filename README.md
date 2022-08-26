@@ -81,7 +81,8 @@ Description
 ![KakaoTalk_Image_2022-08-26-19-07-29](https://user-images.githubusercontent.com/108215485/186883870-2e33dea5-7f12-46c3-9c3c-95cecf041ff9.png)   
 > 서울 도심은 낮 시간, 업무 용도 이용			경기, 인천은 야간 시간, 출퇴근, 여가 용도      
 <img width="706" alt="KakaoTalk_Image_2022-08-26-19-25-05" src="https://user-images.githubusercontent.com/108215485/186884194-bb520379-750f-47e3-8701-c4976371a15f.png">
-> 이를 이용하여 아래와 같은 요금 할인 전략 제안
+> 이를 이용하여 아래와 같은 요금 할인 전략 제안   
+<img width="945" height="300px" alt="KakaoTalk_Image_2022-08-26-19-26-30" src="https://user-images.githubusercontent.com/108215485/186884416-82999d6f-067e-41a3-b607-81eeca528c3b.png">
 
 
 
