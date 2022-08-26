@@ -103,7 +103,13 @@ Description
 
 6. Environment     
 - Python 3.9   
-- Google Colab GPU
+- Google Colab GPU   
+
+7. 데이터 실행 사항
+> * 재현데이터로 원데이터 제공할 수 없어, 모의데이터로 코드 검정 
+> > 공유자동차예약이력.csv -> 모의예약.csv
+> > 공유자동차운행이력.csv -> 모의운행.csv
+> * pd.read_csv(' 경로에 맞게 수정 필요 ') -> 구글 코랩에서 실행하였음 
 
 
 
