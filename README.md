@@ -46,10 +46,10 @@ Description
 > 오버+언더 샘플링 : SMOTEENN   
    
 3-1. 모델 성능비교 및 학습결과 (지도학습)
-<img width="933" alt="KakaoTalk_Image_2022-08-26-19-05-40" src="https://user-images.githubusercontent.com/108215485/186880801-9f89e414-48b2-4891-b306-ae1df2263902.png",height="300px">   
+<img width="933" height="300px" alt="KakaoTalk_Image_2022-08-26-19-05-40" src="https://user-images.githubusercontent.com/108215485/186880801-9f89e414-48b2-4891-b306-ae1df2263902.png">   
 
 >  RandomForest( n_estimators=100, max_depth=5, min_samples_leaf=8, min_samples_split=6, random_state=0, n_jobs=-1 ) 
-<img width="849" alt="KakaoTalk_Image_2022-08-26-19-09-51" src="https://user-images.githubusercontent.com/108215485/186881556-12659423-59ad-4658-abf1-7a7bad221594.png",height="300px">   
+<img width="849" height="300px" alt="KakaoTalk_Image_2022-08-26-19-09-51" src="https://user-images.githubusercontent.com/108215485/186881556-12659423-59ad-4658-abf1-7a7bad221594.png">   
 
 >  accuracy : 81% (모델평가지표) / recall : 79% (모델평가지표)
 >  변수 중요도  :  병원접근성  >  전기차충전소접근성  >  생활권공원접근성  >  고속도로IC접근성  > 등등       
@@ -64,9 +64,9 @@ Description
 4. 분석결과 및 활용방안
 > 1. 주차장 우선 신설 기준 제안
 >>전기차충전소, 종합병원과의 접근성이 높은 곳 
->2. 주차장 우선 신설 기준 제안
->> 전기차 충전소 및 종합병원과 접근성이 좋은 곳을 우선적으로 공유 자동차 주차장으로 고려
-주차장 입지 제안
+>2. 주차장 입지 제안
+>> 
+
 경기도 성남시 분당구 
 
 
