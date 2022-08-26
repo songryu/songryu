@@ -46,7 +46,7 @@ Description
 > 오버+언더 샘플링 : SMOTEENN   
    
 3-1. 모델 성능비교 및 학습결과 (지도학습)
-<img width="933" alt="KakaoTalk_Image_2022-08-26-19-05-40" src="https://user-images.githubusercontent.com/108215485/186880801-9f89e414-48b2-4891-b306-ae1df2263902.png">   
+<img width="933" alt="KakaoTalk_Image_2022-08-26-19-05-40" src="https://user-images.githubusercontent.com/108215485/186880801-9f89e414-48b2-4891-b306-ae1df2263902.png",height="300px">   
 
 >  RandomForest( n_estimators=100, max_depth=5, min_samples_leaf=8, min_samples_split=6, random_state=0, n_jobs=-1 ) 
 <img width="849" alt="KakaoTalk_Image_2022-08-26-19-09-51" src="https://user-images.githubusercontent.com/108215485/186881556-12659423-59ad-4658-abf1-7a7bad221594.png",height="300px">   
@@ -55,8 +55,9 @@ Description
 >  변수 중요도  :  병원접근성  >  전기차충전소접근성  >  생활권공원접근성  >  고속도로IC접근성  > 등등       
       
 3-2. 모델 성능비교 및 학습결과 (비지도학습)
-+ Markov Clustering을 활용한 운행 군집화
-![KakaoTalk_Image_2022-08-26-19-06-59](https://user-images.githubusercontent.com/108215485/186881892-bf5b64a4-7a8f-41d3-9136-8d022342ee8a.png)
++ Markov Clustering을 활용한 운행 군집화   
+   
+![KakaoTalk_Image_2022-08-26-19-06-59,](https://user-images.githubusercontent.com/108215485/186881892-bf5b64a4-7a8f-41d3-9136-8d022342ee8a.png)
    
 >  공유자동차 운행이력이 많은, 통행의 중심점이 될 지점을 도출   
    
