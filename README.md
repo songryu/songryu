@@ -29,7 +29,7 @@ Description
  * 외부 데이터 : 전국 격자별 지리정보 데이터 (국토정보플랫폼) 
  ->(고속도로IC접근성, 고속화철도접근성, 병원접근성, 생활권공원접근성, 노후주택수, 주차장접근성, 전기차충전소접근성, 공연문화시설접근성)
 <img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-
+<img width="901" alt="KakaoTalk_Image_2022-08-26-18-53-26" src="https://user-images.githubusercontent.com/108215485/186878681-8342d683-1298-49d3-a4d1-b0091e36e5d3.png">
 
 
 
