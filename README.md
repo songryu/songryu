@@ -39,11 +39,15 @@ Description
 - 변수간 상관관계, 다중공선성 확인 : 제거할 속성 없음
 <img width="407" alt="KakaoTalk_Image_2022-08-26-19-00-44" src="https://user-images.githubusercontent.com/108215485/186880021-9cd61f48-1325-4d97-81e7-eb58fcd1cd72.png">   
    
-> 결측치 대체 : MICE Algorithm
-> 이상치 제거 : IQR 활용
-> 스케일링 : MinMaxScaling
-> Train, Test set : Stratified Shuffle Split
-> 오버+언더 샘플링 : SMOTEENN
+> 결측치 대체 : MICE Algorithm   
+> 이상치 제거 : IQR 활용   
+> 스케일링 : MinMaxScaling    
+> Train, Test set : Stratified Shuffle Split   
+> 오버+언더 샘플링 : SMOTEENN   
+   
+3-1. 모델 성능비교 및 학습결과 (지도학습)
+
+
 
 
 
