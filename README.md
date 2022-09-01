@@ -26,10 +26,11 @@ Description
 --------------------------------
 1. 데이터 수집 및 가공
  * 주 데이터 : 공유자동차 운행이력 재현데이터, 공유자동차 예약이력 재현데이터
- * 외부 데이터 : 전국 격자별 지리정보 데이터 (국토정보플랫폼) 
+ * 외부 데이터 : 전국 격자별 지리정보 데이터 (국토정보플랫폼),‘공공데이터포털’의 ‘국토교통부_전국 버스정류장 위치정보’ 데이터,‘Observable’의 가공된 ‘서울 지하철역 좌표’ 데이터 
  ->(고속도로IC접근성, 고속화철도접근성, 병원접근성, 생활권공원접근성, 노후주택수, 주차장접근성, 전기차충전소접근성, 공연문화시설접근성)
 <img width="901" alt="KakaoTalk_Image_2022-08-26-18-53-26" src="https://user-images.githubusercontent.com/108215485/186878681-8342d683-1298-49d3-a4d1-b0091e36e5d3.png">
-<img width="873" alt="KakaoTalk_Image_2022-08-26-18-55-50" src="https://user-images.githubusercontent.com/108215485/186879220-47c61e4d-fe97-44a3-baea-2362b4c8677c.png">   
+<img width="873" alt="KakaoTalk_Image_2022-08-26-18-55-50" src="https://user-images.githubusercontent.com/108215485/186879220-47c61e4d-fe97-44a3-baea-2362b4c8677c.png">     
+
    
 > * 독립변수 (고속도로접근성, 고속화철도접근성, 공연문화시설접근성, 노후주택수, 종합병원접근성, 생활권공원접근성, 전기차충전소접근성, 주차장접근성)
 > * 종속변수 (예약 건수)
@@ -68,10 +69,7 @@ Description
 >> ![KakaoTalk_Image_2022-08-26-19-07-05](https://user-images.githubusercontent.com/108215485/186882765-86521487-e590-4e8f-8403-5be1dc91fd7f.png)   
 >> (2) 서울시 강서구   
 >> ![KakaoTalk_Image_2022-08-26-19-07-10](https://user-images.githubusercontent.com/108215485/186882841-0e57c9f1-df10-4d0d-85cb-6548cc5e385b.png)      
->> (3) 경기도 안산시 단원구   
->> ![KakaoTalk_Image_2022-08-26-19-07-13](https://user-images.githubusercontent.com/108215485/186882903-92ab5586-73e9-4547-9c7b-1fb784c082f9.png)      
->> (4) 인천광역시 서구   
->> ![KakaoTalk_Image_2022-08-26-19-07-17](https://user-images.githubusercontent.com/108215485/186882969-a889f9a4-b02d-4487-8f01-d90a458a172f.png)        
+
 > 3. 교통 허브
 >> - 마코프 클러스터링 결과   
 >> <img width="620" alt="KakaoTalk_Image_2022-08-26-19-22-04" src="https://user-images.githubusercontent.com/108215485/186883643-82694e24-a4dd-4bab-9b8c-a2ebcbced26f.png">            
