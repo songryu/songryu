@@ -68,10 +68,7 @@ Description
 > 1. 주차장 우선 신설 기준 제안
 >>전기차충전소, 종합병원과의 접근성이 높은 곳 
 >2. 주차장 입지 제안
->> (1) 경기도 성남시 분당구    
->> ![KakaoTalk_Image_2022-08-26-19-07-05](https://user-images.githubusercontent.com/108215485/186882765-86521487-e590-4e8f-8403-5be1dc91fd7f.png)   
->> (2) 서울시 강서구   
->> ![KakaoTalk_Image_2022-08-26-19-07-10](https://user-images.githubusercontent.com/108215485/186882841-0e57c9f1-df10-4d0d-85cb-6548cc5e385b.png)      
+>> (1) 경기도 성남시 중원구 중앙동    
 
 > 3. 교통 허브
 >> - 마코프 클러스터링 결과   
