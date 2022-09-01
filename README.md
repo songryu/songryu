@@ -31,7 +31,7 @@ Description
 <img width="901" alt="KakaoTalk_Image_2022-08-26-18-53-26" src="https://user-images.githubusercontent.com/108215485/186878681-8342d683-1298-49d3-a4d1-b0091e36e5d3.png">        
 <img width="930" alt="KakaoTalk_Image_2022-09-01-23-03-34" src="https://user-images.githubusercontent.com/108215485/187933738-988f80dd-f884-436b-8d6a-7f6f172a8748.png">    
 <img width="420" alt="KakaoTalk_Image_2022-09-01-23-05-07" src="https://user-images.githubusercontent.com/108215485/187934023-1552c3bd-7f87-445a-82e9-f6503bf3c07c.png">
-<img width="873" alt="KakaoTalk_Image_2022-08-26-18-55-50" src="https://user-images.githubusercontent.com/108215485/186879220-47c61e4d-fe97-44a3-baea-2362b4c8677c.png"> 
+<img width="873" alt="KakaoTalk_Image_2022-08-26-18-55-50" src="https://user-images.githubusercontent.com/108215485/186879220-47c61e4d-fe97-44a3-baea-2362b4c8677c.png">    
 > 위 -> 최종데이터
 
    
