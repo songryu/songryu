@@ -3,6 +3,9 @@
   
 I'm songryu 👩🏼‍💻 ! 
 
+- 🔭 I’m currently working on 하나금융티아이 데이터분석과 교육 
+- 🌱 I’m currently learning fronted and backend and data analysis 
+  
 <br/>  
 
 
@@ -63,7 +66,7 @@ I'm songryu 👩🏼‍💻 !
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 <!--
 **songryu/songryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
