@@ -3,8 +3,6 @@
   
 I'm songryu 👩🏼‍💻 ! 
 
-- 🔭 I’m currently working on 하나금융티아이 데이터분석과 교육 
-- 🌱 I’m currently learning fronted and backend and data analysis 
   
 <br/>  
 
