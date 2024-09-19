@@ -1,7 +1,7 @@
 ### Hi there 👋
 
   
-I'm songryu 👩🏼‍💻 ! 
+I'm  👩🏼‍💻 ! 
 
   
 <br/>  
